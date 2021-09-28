@@ -1,0 +1,37 @@
+/*
+--Gallery--
+*/
+
+.gallery-container {
+    padding: 10px;
+    height: 293px;
+     }
+
+.gallery img {
+    cursor: pointer;
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    padding: 0px; }
+
+.gallery p {
+  padding-top: 0px;
+  margin-top: -25px;
+  text-transform: uppercase;
+  font-family: 'Mukta', sans-serif;
+  font-size: 14px;
+  color: #c2d6db;
+}
+.project-overlay h3 {
+  color: #454545;
+  font-weight: 600;
+  margin-top: 6px;
+}
+
+.project-overlay h4 {
+  color: #454545;
+  font-size: 10px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 0px;
+}
